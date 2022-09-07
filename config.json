@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "6281273232835@s.whatsapp.net",
+    "ownerName": "Fi LeaderX",
+    "botName": "FireIce-Md",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
+    "youtube": "https://youtube.com/channel/UCGwcWXfr16v1fYz60kFytyg",
     "instagram": "https://instagram.com/riychdwayne",
     "gamewaktu": 90,
     "limitCount": 25,
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "FireIce-Md",
+        "author": "By FireBot"
     }
 }
